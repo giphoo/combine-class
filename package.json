@@ -1,0 +1,21 @@
+{
+  "name": "combine-class",
+  "version": "0.0.3",
+  "description": "Real syncable multi-inherit classes.----Class(\"EPromise\").extend(events, Promise);Promise.pro=1;EPromise.pro === 1;//true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "class",
+    "multi",
+    "inherit",
+    "multi-inherit",
+    "oo"
+  ],
+  "author": "giphoo",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
